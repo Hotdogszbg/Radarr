@@ -78,7 +78,7 @@
     "lodash": "4.17.15",
     "mini-css-extract-plugin": "0.9.0",
     "mobile-detect": "1.4.4",
-    "moment": "2.24.0",
+    "moment": "2.29.2",
     "mousetrap": "1.6.5",
     "normalize.css": "8.0.1",
     "postcss-color-function": "4.1.0",
